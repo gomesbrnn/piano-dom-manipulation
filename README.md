@@ -6,7 +6,7 @@ Piano criado usando HTML, CSS e JS..<br />
 Projeto feito com auxilio de uma Masterclass da [@Rocketseat](https://www.instagram.com/rocketseat_oficial/) focado em manipulação de DOM com JavaScript.<br /><br/>
 
 ### Prévia visual do projeto
-<img src="PIANO-DOM-MANIPULATION/teclado.png" alt="Visual Teclado"/>
+<img src="teclado.png" alt="Visual Teclado"/>
 
 ## ⚡️ Primeiros Passos
 
